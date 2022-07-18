@@ -21,6 +21,14 @@
     max-width: 100%;
   }
   
+  .new-expense__cancel{
+    display: inline-block;
+  }
+
+  .new-expense__create-btn {
+    text-align: center;
+  }
+  
   .new-expense__actions {
     text-align: right;
   }
